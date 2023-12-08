@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj",
-      "projectName": "SistemaVentaBlazor.Shared",
-      "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj",
+      "projectName": "SistemaBlazor.Shared",
+      "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EDWIGlgy5xgBj+PFqoy3njHs2lKLTBuSLFsayXlLObO9F9mkVXfGcPDBSi2vV0nzg+EsRboJJfdMtS/YcHIKbw==",
+  "dgSpecHash": "PgcNK06vggz5bGvkVnJuMzC0CBUuTE5QmJ6OGOVj97PapKc7OV2VIPGezRngqXPtyzOLBjleRDFWF9zptmTMpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Client\\SistemaVentaBlazor.Client.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Client\\SistemaBlazor.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\chartjs.blazor.fork.2.0.2.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\closedxml\\0.100.3\\closedxml.0.100.3.nupkg.sha512",

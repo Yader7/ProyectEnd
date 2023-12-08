@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uwubYZytXHUjdOaZxQ4bzC+CRVMfs3p3GambKwtHWwXdTm8es9Vg90UGPEff/Ayc4Rj/37pFLx83+mLmPx2jNQ==",
+  "dgSpecHash": "6HZDZBNocPBab/GJoIWsJjmSDoG+Ywc8ZTXBO4ZYIYy6mR0tAKYbC6rCmTelCuqLrQg5oWGa/XUIaKBUcqfsoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

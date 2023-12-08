@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaVentaBlazor.Server.csproj": {}
+    "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaBlazor.Server.csproj": {}
   },
   "projects": {
     "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Client\\SistemaBlazor.Client.csproj": {
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj"
+              "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj"
               }
             }
           }
@@ -105,12 +105,12 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaVentaBlazor.Server.csproj": {
+    "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaBlazor.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaVentaBlazor.Server.csproj",
-        "projectName": "SistemaVentaBlazor.Server",
-        "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaVentaBlazor.Server.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaBlazor.Server.csproj",
+        "projectName": "SistemaBlazor.Server",
+        "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaBlazor.Server.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\obj\\",
         "projectStyle": "PackageReference",
@@ -132,8 +132,8 @@
               "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Client\\SistemaBlazor.Client.csproj": {
                 "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Client\\SistemaBlazor.Client.csproj"
               },
-              "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj"
+              "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj"
               }
             }
           }
@@ -194,12 +194,12 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj": {
+    "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj",
-        "projectName": "SistemaVentaBlazor.Shared",
-        "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaVentaBlazor.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj",
+        "projectName": "SistemaBlazor.Shared",
+        "projectPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\SistemaBlazor.Shared.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Shared\\obj\\",
         "projectStyle": "PackageReference",

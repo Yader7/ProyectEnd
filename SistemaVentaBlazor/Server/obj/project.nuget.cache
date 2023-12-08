@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O044nlquvvO58MsnqooKoXI2UpllxCi2COvfBb/rBe9VDUneid3IwShNUfOD04XUcKFfBOQVEr90QPJo7TLPZw==",
+  "dgSpecHash": "VVKIyAxnehSGAXTTREVm6wEHGm5xjyotLU43E9fWZLykJepFdWFpg3bMjFEdDf1LJMDQ1+sWMDkFcF8bvxC9Qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaVentaBlazor.Server.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Videos\\098_SistemaVentaBlazor-master\\SistemaVentaBlazor\\Server\\SistemaBlazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
