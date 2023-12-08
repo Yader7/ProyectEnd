@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\bin\Debug\net7.0\SistemaVentaBlazor.Shared.deps.json
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\bin\Debug\net7.0\SistemaVentaBlazor.Shared.dll
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\bin\Debug\net7.0\SistemaVentaBlazor.Shared.pdb
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\obj\Debug\net7.0\SistemaVentaBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\obj\Debug\net7.0\SistemaVentaBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\obj\Debug\net7.0\SistemaVentaBlazor.Shared.AssemblyInfo.cs
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\obj\Debug\net7.0\SistemaVentaBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\obj\Debug\net7.0\SistemaVentaBlazor.Shared.dll
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\obj\Debug\net7.0\refint\SistemaVentaBlazor.Shared.dll
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\obj\Debug\net7.0\SistemaVentaBlazor.Shared.pdb
+C:\Users\USUARIO\Videos\098_SistemaVentaBlazor-master\SistemaVentaBlazor\Shared\obj\Debug\net7.0\ref\SistemaVentaBlazor.Shared.dll
